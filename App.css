@@ -1,0 +1,41 @@
+* {
+  color: #ffffff;
+}
+.app {
+  text-align: center;
+}
+.input{
+  color: #333333;
+  padding: 8px;
+  border: 1px solid #333333;
+  border-radius: 8px;
+  width: 50%;
+  font-size: 20px;
+}
+.main-header {
+  text-align: center;
+}
+.button {
+  color: #ffffff;
+  padding: 8px;
+  border: 1px solid #2e7b32;
+  background: #4caf50;
+  border-radius: 8px;
+  width: 25%;
+  font-size: 20px;
+  margin-left: 10px;
+  text-transform: capitalize;
+}
+.wrapper {
+  width: 50%;
+  margin: 30px auto;
+  background: #4267b2;
+  border-radius: 10px;
+  padding: 20px;
+}
+.error {
+  margin: 10px auto;
+  color: #fb7041;
+  font-size: 14px;
+  text-align: center;
+}
